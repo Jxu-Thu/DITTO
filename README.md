@@ -1,4 +1,4 @@
-# DITTO
+# DITTO [NeurIPS 2022]
 
 The codes can be used to reproduce the results [DITTO](https://arxiv.org/abs/2206.02369) for open-ended generation (Wikitext-103) and abstractive summrization (DNN/DailyMail).
 
